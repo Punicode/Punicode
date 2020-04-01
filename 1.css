@@ -52,6 +52,8 @@ ul{
     list-style: disc;
     list-style-position: inherit;
     padding-left: 58px;
+    position: absolute;
+    top: 43px;
 }
 li{
     margin-left: -31px;
@@ -154,8 +156,9 @@ li{
     position: absolute;
     font-weight: bold;
     top: 269px;
-    left: 6px;
-    font-size: 17px;
+    left: 17px;
+    font-size: 16px;
+    color:red;
 }
 .maqr img{
     position: absolute;
